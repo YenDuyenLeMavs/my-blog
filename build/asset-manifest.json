@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8a2d816.css",
+    "main.js": "/static/js/main.1e533ec6.js",
+    "static/js/787.a361b86b.chunk.js": "/static/js/787.a361b86b.chunk.js",
+    "static/media/white-rock-lake.jpg": "/static/media/white-rock-lake.222fc26fc7e0e02b0319.jpg",
+    "static/media/comal-river.jpg": "/static/media/comal-river.66e98988a3020edb4828.jpg",
+    "static/media/lake-arlington.jpg": "/static/media/lake-arlington.83da8282da93b91f9e3a.jpg",
+    "static/media/coyote.jpg": "/static/media/coyote.d09c4031f1f4576733ef.jpg",
+    "static/media/virtruvian-park.jpg": "/static/media/virtruvian-park.795f139a799c5cfe9085.jpg",
+    "index.html": "/index.html",
+    "main.d8a2d816.css.map": "/static/css/main.d8a2d816.css.map",
+    "main.1e533ec6.js.map": "/static/js/main.1e533ec6.js.map",
+    "787.a361b86b.chunk.js.map": "/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a2d816.css",
+    "static/js/main.1e533ec6.js"
+  ]
+}
