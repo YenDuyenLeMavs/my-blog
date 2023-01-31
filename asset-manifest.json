@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/YenDuyenLeMavs/my-blog/static/css/main.d8a2d816.css",
-    "main.js": "/YenDuyenLeMavs/my-blog/static/js/main.5201b669.js",
-    "static/js/787.a361b86b.chunk.js": "/YenDuyenLeMavs/my-blog/static/js/787.a361b86b.chunk.js",
-    "static/media/white-rock-lake.jpg": "/YenDuyenLeMavs/my-blog/static/media/white-rock-lake.222fc26fc7e0e02b0319.jpg",
-    "static/media/comal-river.jpg": "/YenDuyenLeMavs/my-blog/static/media/comal-river.66e98988a3020edb4828.jpg",
-    "static/media/lake-arlington.jpg": "/YenDuyenLeMavs/my-blog/static/media/lake-arlington.83da8282da93b91f9e3a.jpg",
-    "static/media/coyote.jpg": "/YenDuyenLeMavs/my-blog/static/media/coyote.d09c4031f1f4576733ef.jpg",
-    "static/media/virtruvian-park.jpg": "/YenDuyenLeMavs/my-blog/static/media/virtruvian-park.795f139a799c5cfe9085.jpg",
-    "index.html": "/YenDuyenLeMavs/my-blog/index.html",
-    "main.d8a2d816.css.map": "/YenDuyenLeMavs/my-blog/static/css/main.d8a2d816.css.map",
-    "main.5201b669.js.map": "/YenDuyenLeMavs/my-blog/static/js/main.5201b669.js.map",
-    "787.a361b86b.chunk.js.map": "/YenDuyenLeMavs/my-blog/static/js/787.a361b86b.chunk.js.map"
+    "main.css": "/my-blog/static/css/main.d8a2d816.css",
+    "main.js": "/my-blog/static/js/main.d12c8a60.js",
+    "static/js/787.a361b86b.chunk.js": "/my-blog/static/js/787.a361b86b.chunk.js",
+    "static/media/white-rock-lake.jpg": "/my-blog/static/media/white-rock-lake.222fc26fc7e0e02b0319.jpg",
+    "static/media/comal-river.jpg": "/my-blog/static/media/comal-river.66e98988a3020edb4828.jpg",
+    "static/media/lake-arlington.jpg": "/my-blog/static/media/lake-arlington.83da8282da93b91f9e3a.jpg",
+    "static/media/coyote.jpg": "/my-blog/static/media/coyote.d09c4031f1f4576733ef.jpg",
+    "static/media/virtruvian-park.jpg": "/my-blog/static/media/virtruvian-park.795f139a799c5cfe9085.jpg",
+    "index.html": "/my-blog/index.html",
+    "main.d8a2d816.css.map": "/my-blog/static/css/main.d8a2d816.css.map",
+    "main.d12c8a60.js.map": "/my-blog/static/js/main.d12c8a60.js.map",
+    "787.a361b86b.chunk.js.map": "/my-blog/static/js/787.a361b86b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8a2d816.css",
-    "static/js/main.5201b669.js"
+    "static/js/main.d12c8a60.js"
   ]
 }
